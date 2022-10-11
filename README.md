@@ -19,6 +19,7 @@ The repository of the frontend of this project can be found at: https://github.c
 ## Technology
 
 * C# 
+* .Net Core 5.0
 * Asp.Net Core
 
 
