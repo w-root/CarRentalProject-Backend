@@ -1,5 +1,6 @@
 # Car Rental Project
  This is a graduation project carried out with bootcamp.
+ Layered Architecture RentCarSystem using C#, Asp.Net Core, EntityFramework
 
 ## Table of contents
 
